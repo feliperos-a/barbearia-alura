@@ -6,6 +6,8 @@
 - HTML5 e CSS3 parte 3: trabalhando com formulários e tabelas
 - HTML5 e CSS3 parte 4: avançando no CSS
 
+> [ACESSE A PÁGINA AQUI](https://feliperos-a.github.io/barbearia-alura/)
+
 ![preview](./.github/preview.png)
 
 ## ⚙️ Tecnologias 
